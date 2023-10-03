@@ -21,18 +21,8 @@ This repository showcases some of the projects I've worked on. Feel free to dive
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-
-
-
-
-
- 
-
-
-
-
-Programming: Python, SQL
-Tools/Libraries: Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, Tableau, Power BI
+![Tableau](https://img.shields.io/badge/Tableau-E97627.svg?style=for-the-badge&logo=Tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft%20Excel-217346.svg?style=for-the-badge&logo=Microsoft-Excel&logoColor=white)
 
 ### 🤝 Connect with Me
 
