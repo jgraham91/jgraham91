@@ -8,3 +8,7 @@ This repository showcases some of the projects I've worked on. Feel free to dive
 
 Programming: Python, SQL
 Tools/Libraries: Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, Tableau, Power BI
+
+### 🤝 Connect with Me
+LinkedIn: [[Your LinkedIn profile link](https://www.linkedin.com/in/josh-graham-285003240/)]
+Email: [joshlatosgraham@gmail.com]
