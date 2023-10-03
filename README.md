@@ -10,5 +10,7 @@ Programming: Python, SQL
 Tools/Libraries: Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, Seaborn, Tableau, Power BI
 
 ### 🤝 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([YOUR_LINKEDIN_PROFILE_URL](https://www.linkedin.com/in/josh-graham-285003240/))
+
 LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-graham-285003240/)
 Email: [joshlatosgraham@gmail.com]
