@@ -11,5 +11,5 @@ Tools/Libraries: Pandas, Scikit-learn, TensorFlow, Keras, PyTorch, Matplotlib, S
 
 ### 🤝 Connect with Me
 
-LinkedIn: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-graham-285003240/)
-Email: [joshlatosgraham@gmail.com]
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josh-graham-285003240/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joshlatosgraham@gmail.com)
